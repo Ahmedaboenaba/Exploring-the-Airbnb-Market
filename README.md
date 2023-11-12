@@ -1,4 +1,4 @@
-# Project-Exploring-the-NYC-Airbnb-Market
+# Exploring-the-Airbnb-Market
 This project uses R language 
 
 
